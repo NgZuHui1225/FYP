@@ -1,0 +1,59 @@
+.root{
+    -fx-background-color:#EBDAE2;
+    -fx-background-size: cover,auto;
+}
+.btnset1{
+    -fx-background-color:#FFFFFF;
+    -fx-text-fill: #EBDAE2;
+    -fx-font-family:Ravie;
+    -fx-font-size:20px;
+    -fx-border-color: #EBDAE2;
+    -fx-border-width: 2px;
+    -fx-min-width: 225px;
+    -fx-min-height: 170px;
+}
+.btnset2{
+    -fx-background-color:#FFFFFF;
+    -fx-min-width: 75px;
+    -fx-min-height: 75px;
+    -fx-max-width: 75px;
+    -fx-max-height: 75px;
+    -fx-border-color: #EBDAE2;
+    -fx-border-width: 2px;
+}
+
+.btnspe{
+    -fx-background-color:#EBDAE2;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family:Ravie;
+    -fx-font-size:20px;
+    -fx-border-color: #EBDAE2;
+    -fx-border-width: 2px;
+    -fx-min-width: 225px;
+    -fx-min-height: 170px;
+}
+
+.btnset3{
+    -fx-background-color:#000000;
+    -fx-text-fill:#FFFFFF;
+    -fx-font-size:25px;
+    -fx-font-family:Stencil;
+}
+
+.tfset1{
+    -fx-border-color: black;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color:transparent;
+}
+
+.gp Label {
+    -fx-font-family: Nirmala UI;
+    -fx-text-fill: #28527A;
+    -fx-font-size:25px; 
+}
+
+.gp2 Label {
+    -fx-font-family: Nirmala UI;
+    -fx-text-fill: #28527A;
+    -fx-font-size:20px; 
+}
