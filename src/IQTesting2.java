@@ -1280,7 +1280,7 @@ public class IQTesting2 extends Application{
         
         
         
-        primaryStage.setTitle("Gamification IQ Testing");
+        primaryStage.setTitle("IQ Testing Quiz");
         primaryStage.setScene(scene1);
         primaryStage.setResizable(false);
         primaryStage.show();
